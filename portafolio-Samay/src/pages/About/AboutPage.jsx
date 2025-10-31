@@ -53,7 +53,7 @@ const About = () => {
               <p>
                 <FormattedMessage
                   id='about-info-1'
-                  defaultMessage="Hi, I'm Esteban Nahuel Carrizo, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page."
+                  defaultMessage="Hi, I'm Abdul Samay, a passionate Full Stack Web Developer and a student at SM Government Science College and GIAIC (Governor Initiative for Artificial Intelligence and Computing).I have over three years of experience in designing and developing responsive, high-performance web applications. My journey began with a deep curiosity about how websites work, which soon evolved into a strong passion for creating functional, beautiful, and efficient digital experiences.I specialize in both front-end and back-end development. On the front end, I work with HTML, CSS, JavaScript, and React to build engaging user interfaces. On the back end, I use Node.js, Express, and databases like MongoDB to create reliable and scalable web solutions."
                 />
               </p>
 
